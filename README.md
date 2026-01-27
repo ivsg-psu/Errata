@@ -101,63 +101,6 @@ codegen/
 # Octave session info
 octave-workspace
 ```
-
-### GitHub User IDs for the team
-Here's a list of all the team member's user IDs for GitHub:
-
-```
-
-ivsg-psu - the "master" account for the team
-prof-s-brennan - Dr. B's personal account (often linked into repos so he can personally edit)
-
-Students (in alphabetical order by last name):
-Mariam-Abdellatief - Mariamv Abdellatief (Summer '23)
-pamin1 - Pranchit Amin (2024+)
-IsaiahAdu - Isaiah Adu
-Saif5241 - Saif Alameri
-proofman82542 - Phakphum Artkaew
-bwspsu - Wushuang Bai
-aneeshbatchu - Aneesh Batchu
-cbealbu - Prof. Craig Beal (Bucknell)
-gnbodenschatz - George Bodenschatz
-XinyuC - Xinyu Cao
-cxchen@gmail.com - Prof. Cindy Chen (UML)
-jcserns - Jack Csernica
-McDeLa - Micah DeLattre
-andespar15 - Andres Enrique Esparragoza (SHC honors student, graduating May 2024)
-DanFescenmyer - Dan Fescenmyer
-liminggao - Liming Gao
-gabrielg78 - Gabriel Gayoso (2023+)
-shashankgarik - Shashank Garikipati
-sjharnett - Steve Harnett
-Maomaodeweiba - Yanen Huang
-bhavya5164 - Bhavya Jain
-faisal1125 - Faisal Katibi
-KazandjianV - Vahan Kazandjian
-Justink21 - Justin Kerr
-abelkim0909 - Abel Kim
-beichenningxue - Ruiji Liu
-stephenrm - Stephen "Steve" Maransky
-msvsprasad - Satya Maddipatla
-JMitro - Juliette Mitrovich
-esolay - Emilio Olay
-mikpsu - Michael "Mike" Pagan
-emp212 - Evan Pelletier
-marcusputz058 - Marcus Putz
-cdrahn1506 - Prof. Chris Rahn
-ElijahJRivers - Elijah Rivers (Summer '24)
-IndyGPS2 - Natalie Rudisill
-mustasalau - Mustapha Salau 
-juliansim1729 - Julian Sim
-ysun8 - Yao Sun
-nickv22 - Nick Vitagliano
-joshsingler - Joshua Singler
-mariuspsu - Marius Tanase
-Vaishnavi-Wagh - Vaishnavi Wagh
-
-```          
-<a href="#odds-and-ends">Back to top</a>
-
 ***
 
 
