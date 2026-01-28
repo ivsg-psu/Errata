@@ -24,6 +24,10 @@ Welcome to the group's repo hub section for information and repos that just don'
       This includes the .gitignores we use, list of GitHub IDs for the team, etc.
     </li>
     <li>
+      <a href="#errata_private-link">Errata_Private link</a> 
+      This includes the link to the Errata_Private repo 
+    </li>
+    <li>
       <a href="#tutorials-and-general-use-codes">Tutorials and General Use Codes</a> 
       This includes how to use GitHub, debugging tools, the FuncE gen auto-code generator, using MATLAB with Python, and coding challenges / exercises repo (public).
     </li>
@@ -102,6 +106,10 @@ codegen/
 octave-workspace
 ```
 ***
+
+# Errata_Private Items
+
+[Errata_Private](https://github.com/ivsg-psu/Errata_Private): This is a private repository for Errata. It contains private information, such as GitHub IDs, and can only be accessed by the contributors to this repository.
 
 
 # Tutorials and General Use Codes
