@@ -62,7 +62,7 @@ Welcome to the group's repo hub section for information and repos that just don'
   </ol>
 </details>
 
-<a href="#odds-and-ends">Back to top</a>
+<a href="#errata">Back to top</a>
 
 ***
 
@@ -107,10 +107,13 @@ octave-workspace
 ```
 ***
 
-# Errata_Private Items
+# Errata_Private Link
 
 [Errata_Private](https://github.com/ivsg-psu/Errata_Private): This is a private repository for Errata. It contains private information, such as GitHub IDs, and can only be accessed by the contributors to this repository.
 
+<a href="#errata">Back to top</a>
+
+***
 
 # Tutorials and General Use Codes
 
@@ -229,7 +232,7 @@ Using Pandoc is fairly easy. It is a command line tool that can be accessed from
 
 `pandoc -f docx -t markdown --extract-media ./images/example_images .\example.docx -o .\example.md`
 
-<a href="#odds-and-ends">Back to top</a>
+<a href="#errata">Back to top</a>
 
 ***
 
@@ -580,7 +583,10 @@ Typical schedule:
 ### The Journal of Autonomous Vehicle Systems
 A new, possibly strong journal focused on ground vehicle mobility
 
-<a href="#odds-and-ends">Back to top</a>
+
+<a href="#errata">Back to top</a>
+
+***
 
 ## Thesis Ideas 
 1. AR camera system on truck
@@ -664,11 +670,10 @@ a. The radar can fail to detect a stationary vehicle when traveling around a cur
 
 </details>
 
-<a href="#odds-and-ends">Back to top</a>
 
+<a href="#errata">Back to top</a>
 
 ***
-
 
 # Group Webpages
 
@@ -894,7 +899,10 @@ IE562: Smart SYstems Design (AI Course) ( I use Russell & Norwig, and Pearl as m
 IE582: Advanced Engineering Analytics (ML Course). - Started around 2011.
 
 
-<a href="#odds-and-ends">Back to top</a>
+
+<a href="#errata">Back to top</a>
+
+***
 
 
 # Collaborators at Penn State 
@@ -967,7 +975,10 @@ STAT 506, Samping Theory & Methods - Theory and application of sampling from fin
 
 </details>
 
-<a href="#odds-and-ends">Back to top</a>
+
+<a href="#errata">Back to top</a>
+
+***
 
 
 # Fun Stuff
